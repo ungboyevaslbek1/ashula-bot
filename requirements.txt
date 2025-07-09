@@ -1,0 +1,6 @@
+aiogram==3.4.1
+shazamio==1.0.0
+yt-dlp==2024.4.9
+aiohttp
+pydub
+python-dotenv
