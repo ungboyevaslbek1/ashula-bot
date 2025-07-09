@@ -4,5 +4,4 @@ aiohttp
 pydub
 python-dotenv
 requests
-pydantic==1.10.13
-
+pydantic==2.5.3
