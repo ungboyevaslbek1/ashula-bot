@@ -1,8 +1,7 @@
-aiogram==3.3.0
+aiogram==3.2.0
 yt-dlp==2024.4.9
 aiohttp
 pydub
 python-dotenv
 requests
 pydantic==1.10.13
-
