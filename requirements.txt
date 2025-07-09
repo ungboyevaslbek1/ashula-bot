@@ -5,3 +5,4 @@ pydub
 python-dotenv
 requests
 pydantic==1.10.13
+
