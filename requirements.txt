@@ -1,6 +1,7 @@
-aiogram==3.4.1
+aiogram==3.4.0
 shazamio==0.8.1
 yt-dlp==2024.4.9
 aiohttp
 pydub
 python-dotenv
+
